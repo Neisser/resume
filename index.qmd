@@ -1,7 +1,127 @@
 ---
-title: "resume"
+title: "Neisser Villa - Software Engineer"
 ---
 
-This is a Quarto website.
+## Resume
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+### 👨‍💻 Summary
+
+I'm a backend engineer with a front-end superpower (React & Next.js, to be specific ). I code fluently in JavaScript & Node.js, and dabble in Go, Rust, & Python to keep my brain buzzing. My toolbox overflows with libraries like Express, NestJS, Sequelize, Mongoose, Jest, and more. 
+
+But that's not all! Beyond the code, I'm comfortable navigating the infrastructure landscape. I leverage tools like Kafka for efficient data streaming, Sonarqube for maintaining code quality, and GitHub Actions for automated deployments. When it comes to the cloud, I'm proficient in AWS services like Lambda, EC2, S3, SQS, and SNS, using them to design and manage robust, scalable systems.
+
+I'm on a mission to push the boundaries of what's possible, constantly learning and adapting. If you're building something ambitious and need a passionaten software engineer with a holistic view 🙌
+
+### ⚡ Skills
+
+#### 🐐 I'm a pro:  
+
+`Typescript` - `Javascript` - `NodeJs` - `ExpressJs` - `API REST` - `NestJs` - `Jest` - `React` - `NextJs` - `MongoDB` - `PostgreSQL` - `AWS Services` - `Docker` - `Sonarqube` - `GIT` - `Figma.` - `System Architecture` - `Technical Leadership`
+
+#### 🚀 I can deal with:  
+
+`Python` - `C#` - `Rust` - `Golang` - `GraphQL` - `Angular` - `Redis` - `Firebase` - `GCP` - `Azure Services` - `Linux.`
+
+### 🔥 Experience
+
+#### 🏢 Soluntech (mar 2023 - Present)
+
+* **Back End Team Lead (1 year 6 months)**
+    * Conexis VMS - Streamlined Vendor Management System
+        * Role: Tech Lead
+        * Description: Conexis VMS, a user-centric vendor management system automating the procure-to-pay process for contingent non-employee contractors and vendors.
+        * Responsibilities:
+            * Led the technical team, overseeing the development process from conception to implementation.
+            * Employed NestJS, PostgreSQL, and Next.js to ensure a cost-effective and user-friendly system.
+* **Back End Developer (aug 2022 - mar 2023 (8 months))**
+    * Plan Notice - Communication Management for Retirement Plans:
+        * Role: Backend Developer
+        * Description: Developed Plan Notice, a platform enabling companies to effectively track and manage communications with retirement plan participants.
+        * Responsibilities:
+            * Utilized Node.js, Express, and MongoDB to build the backend logic for seamless data handling.
+            * Integrated knack.com for enhanced user experience and interaction.
+
+#### 🏢 Passarellapp (jan 2022 - aug 2023 (1 year 8 month))
+
+* **CTO - Software Developer**
+    * Frontend development with React & Next.js
+    * Backend development with Node.js, Express.js
+    * Non-relational database implementation
+    * AWS, Heroku, Vercel cloud services implementation
+    * Project planning using sprint design
+    * Project management using agile metodologies like Scrum
+    * Strategic Planning
+    * UX/UI product design
+
+#### 🏢 Nowstark (aug 2021 - feb 2022 (7 months))
+
+* **Co-Founder - Software Developer**
+    * Frontend development with React & Next.js
+    * Backend development with Node.js, Express.js, .NET Core & C#
+    * Architecture design for Saas platforms
+    * Project planning using sprint design
+    * Project management using agile metodologies like Scrum
+    * Strategic Planning
+* R3 - Bulk Notification System:
+    * Role: Tech Lead
+    * Description: Led the development of a bulk notification system, facilitating efficient delivery of mass notifications.
+    * Responsibilities:
+        * Provided technical leadership, guiding the team in utilizing .NET Core, Next.js, and SQL Server.
+        * Ensured the successful implementation of a reliable and scalable notification mechanism.
+
+#### 🏢 Pluriza (dec 2020 - may 2021 (6 months))
+
+* **Technical Lead**
+    * Backend development with Node.js, Express.js and Nest.js
+    * Frontend development with React, Gatsby and Angular
+    * AWS & GCP cloud services implementation.
+    * Project planning
+    * Assess and implement new plugins, frameworks, applications, and platforms for an optimal development workflow
+    * Collaborate with external IT and Development teams to coordinate work and project releases
+* **Inferno Hub - Exclusive Content Sharing Platform**
+    * Role: Backend Developer
+    * Description: Contributed to the development of Inferno Hub, a platform similar to OnlyFans, designed for Canada.
+    * Responsibilities:
+        * Developed backend functionalities using Node.js, Express, and MongoDB.
+        * Collaborated with frontend developers to ensure seamless integration of features.
+* **Full-stack Developer**
+    * Backend development with Node.js, Express.js and Nest.js
+    * Frontend development with React, Gatsby and Angular
+    * Implementation and development with relational & non-relational databases
+    * AWS & GCP cloud services implementation.
+    * Assess and implement new plugins, frameworks, applications, and platforms for an optimal development workflow
+    * Collaborate with external IT and Development teams to coordinate work and project releases
+    * Dialogflow implementation for chatbot project
+* **Project Experience: Estori - Latin American eCommerce Platform**
+    * Role: Fullstack Developer
+    * Description: Played a key role in developing Estori, an innovative eCommerce platform for Latin American brands.
+    * Responsibilities:
+        * Utilized NestJS, ReactJS, Redux, MongoDB, and Redis to create a responsive and engaging shopping experience.
+        * Contributed to both backend and frontend development, ensuring smooth platform functionality.
+* **Project Experience: Se Heroe - Taxi Driver Admin Dashboard**
+    * Role: Fullstack Developer
+    * Description: Developed an admin dashboard, Se Heroe, tailored for taxi drivers to manage their operations efficiently.
+    * Responsibilities:
+        * Implemented Node.js, Express.js, Angular 10, and Firebase for building a comprehensive management tool.
+        * Ensured seamless integration with Firebase for authentication and real-time updates.
+
+
+### 📖 Education
+
+* **Universidad del Norte**
+    * Master's degree in Computer Engineering · (January 2024)
+
+* **Universidad del Atlántico**
+    * Industrial Engineer, Industrial Engineering · (January 2015 - April 2020)
+    
+* **Servicio Nacional de Aprendizaje (SENA)**
+    * Technologist in Analysis and Development of Information Systems, Computer Science · (2015 - 2017)
+
+* **Universidad del Atlántico**
+    * English Level B2, Foreign Languages · (2014 - 2016)
+
+
+### 📱 Contact
+* **Email:** villa.neisser@gmail.com
+* **LinkedIn:** https://www.linkedin.com/in/neisser
+* **Github:** https://github.com/neisser
