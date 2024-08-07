@@ -10,17 +10,17 @@ I'm a backend engineer with a front-end superpower (React & Next.js, to be speci
 
 But that's not all! Beyond the code, I'm comfortable navigating the infrastructure landscape. I leverage tools like Kafka for efficient data streaming, Sonarqube for maintaining code quality, and GitHub Actions for automated deployments. When it comes to the cloud, I'm proficient in AWS services like Lambda, EC2, S3, SQS, and SNS, using them to design and manage robust, scalable systems.
 
-I'm on a mission to push the boundaries of what's possible, constantly learning and adapting. If you're building something ambitious and need a passionaten software engineer with a holistic view 🙌
+I'm on a mission to push the boundaries of what's possible! 🙌
 
 ### ⚡ Skills
 
 #### 🐐 I'm a pro:  
 
-`Typescript` - `Javascript` - `NodeJs` - `ExpressJs` - `API REST` - `NestJs` - `Jest` - `React` - `NextJs` - `MongoDB` - `PostgreSQL` - `AWS Services` - `Docker` - `Sonarqube` - `GIT` - `Figma.` - `System Architecture` - `Technical Leadership`
+`Typescript` - `Javascript` - `NodeJs` - `ExpressJs` - `API REST` - `NestJs` - `Jest` - `React` - `NextJs` - `MongoDB` - `PostgreSQL` - `AWS Services` - `Docker` - `Sonarqube` - `GIT` - `Figma` - `System Architecture` - `Technical Leadership`
 
 #### 🚀 I can deal with:  
 
-`Python` - `C#` - `Rust` - `Golang` - `GraphQL` - `Angular` - `Redis` - `Firebase` - `GCP` - `Azure Services` - `Linux.`
+`Python` - `C#` - `Rust` - `Golang` - `GraphQL` - `Angular` - `Redis` - `Firebase` - `GCP` - `Azure Services` - `Linux`
 
 ### 🔥 Experience
 
